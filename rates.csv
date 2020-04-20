@@ -1,0 +1,186 @@
+,Time,Economy,Code,Region,Income group,death_rate,recover_rate
+88,2020-04-19,Afghanistan,AFG,South Asia,Low income,0.8877557657988379,3.5241213733226595
+177,2020-04-19,Albania,ALB,Europe & Central Asia,Upper middle income,9.070687167349993,109.54599117491912
+266,2020-04-19,Algeria,DZA,Middle East & North Africa,Upper middle income,8.880273523791283,24.793723678425263
+355,2020-04-19,Andorra,ADO,Europe & Central Asia,High income,467.4960392696673,3051.7102563436615
+444,2020-04-19,Angola,AGO,Sub-Saharan Africa,Upper middle income,0.06491449041378508,0.19474347124135527
+533,2020-04-19,Antigua and Barbuda,ATG,Latin America & Caribbean,High income,31.15717757514073,31.15717757514073
+622,2020-04-19,Argentina,ARG,Latin America & Caribbean,Not classified,2.9666586671764525,15.934552992637158
+711,2020-04-19,Armenia,ARM,Europe & Central Asia,Lower middle income,6.775581886972453,184.63460641999936
+800,2020-04-19,Australia,AUS,East Asia & Pacific,High income,2.681857132427063,165.07431065864492
+889,2020-04-19,Austria,AUT,Europe & Central Asia,High income,51.1282083940528,1187.825921119355
+978,2020-04-19,Azerbaijan,AZE,Europe & Central Asia,Upper middle income,1.911507273788205,71.63121994406326
+1067,2020-04-19,"Bahamas, The",BHS,Latin America & Caribbean,High income,,
+1156,2020-04-19,Bahrain,BHR,Middle East & North Africa,High income,4.460192463676512,483.61229713292454
+1245,2020-04-19,Bangladesh,BGD,South Asia,Lower middle income,0.5639702149604701,0.4648106167256622
+1334,2020-04-19,Barbados,BRB,Latin America & Caribbean,High income,17.443422259900014,59.307635683660045
+1423,2020-04-19,Belarus,BLR,Europe & Central Asia,Upper middle income,4.955976691725279,52.09047841941039
+1512,2020-04-19,Belgium,BEL,Europe & Central Asia,High income,497.058755616073,765.9235479377004
+1601,2020-04-19,Belize,BLZ,Latin America & Caribbean,Upper middle income,5.220964259889159,5.220964259889159
+1690,2020-04-19,Benin,BEN,Sub-Saharan Africa,Low income,0.08706972752747746,1.5672550954945945
+1779,2020-04-19,Bhutan,BTN,South Asia,Lower middle income,0.0,2.6511345530319703
+1868,2020-04-19,Bolivia,BOL,Latin America & Caribbean,Lower middle income,2.8186029911367267,2.730521647663704
+1957,2020-04-19,Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,14.440741664457935,104.39452828264382
+2046,2020-04-19,Botswana,BWA,Sub-Saharan Africa,Upper middle income,0.44363092391463477,0.0
+2135,2020-04-19,Brazil,BRA,Latin America & Caribbean,Upper middle income,11.7535104768773,105.64792317355591
+2224,2020-04-19,Brunei Darussalam,BRN,East Asia & Pacific,High income,,
+2313,2020-04-19,Bulgaria,BGR,Europe & Central Asia,Upper middle income,5.978616198035684,22.918028759136785
+2402,2020-04-19,Burkina Faso,BFA,Sub-Saharan Africa,Low income,1.8226431515322732,17.11259403383079
+2491,2020-04-19,,,,,,
+2580,2020-04-19,Burundi,BDI,Sub-Saharan Africa,Low income,0.08948243182467742,0.0
+2669,2020-04-19,Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,1.83902296387975,1.83902296387975
+2758,2020-04-19,Cambodia,KHM,East Asia & Pacific,Lower middle income,0.0,6.461618784430428
+2847,2020-04-19,Cameroon,CMR,Sub-Saharan Africa,Lower middle income,1.6655934824851146,12.09538124185619
+2936,2020-04-19,Canada,CAN,North America,High income,42.17739520988381,319.6900838461251
+3025,2020-04-19,Central African Republic,CAF,Sub-Saharan Africa,Low income,0.0,0.8571960645271481
+3114,2020-04-19,Chad,TCD,Sub-Saharan Africa,Low income,0.0,0.5168709588363323
+3203,2020-04-19,Chile,CHL,Latin America & Caribbean,High income,7.101226109446446,231.61743505848634
+3292,2020-04-19,China,CHN,East Asia & Pacific,Upper middle income,3.32871410826219,55.782527841002924
+3381,2020-04-19,Colombia,COL,Latin America & Caribbean,Upper middle income,3.6053321452521856,14.320620979186055
+3470,2020-04-19,"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,,
+3559,2020-04-19,"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,,
+3648,2020-04-19,Costa Rica,CRI,Latin America & Caribbean,Upper middle income,1.0001118125006376,22.402504600014282
+3737,2020-04-19,,,,,0.35900585534561114,10.371280265539877
+3826,2020-04-19,Croatia,HRV,Europe & Central Asia,High income,11.497506141992243,173.44110329090427
+3915,2020-04-19,Cuba,CUB,Latin America & Caribbean,Upper middle income,2.9987287154204685,22.490465365653513
+4004,2020-04-19,Cyprus,CYP,Europe & Central Asia,High income,10.090265836462017,68.10929439611861
+4093,2020-04-19,Czech Republic,CZE,Europe & Central Asia,High income,,
+4182,2020-04-19,Denmark,DNK,Europe & Central Asia,High income,61.27412906161174,747.0265650102974
+4271,2020-04-19,,,,,,
+4360,2020-04-19,Djibouti,DJI,Middle East & North Africa,Lower middle income,2.085679723021733,106.36966587410838
+4449,2020-04-19,Dominica,DMA,Latin America & Caribbean,Upper middle income,0.0,111.69284467713787
+4538,2020-04-19,Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,21.26625492311449,34.157745739338765
+4627,2020-04-19,Ecuador,ECU,Latin America & Caribbean,Upper middle income,27.744678948116103,62.103595704538364
+4716,2020-04-19,"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,,
+4805,2020-04-19,El Salvador,SLV,Latin America & Caribbean,Lower middle income,1.0902163362999677,6.852788399599797
+4894,2020-04-19,Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,0.0,3.055828458013681
+4983,2020-04-19,Eritrea,ERI,Sub-Saharan Africa,Low income,,
+5072,2020-04-19,Estonia,EST,Europe & Central Asia,High income,30.257712501806008,124.05662125740461
+5161,2020-04-19,,,,,0.8801337099132099,7.0410696793056795
+5250,2020-04-19,Ethiopia,ETH,Sub-Saharan Africa,Low income,0.027466350310464516,0.14648720165581075
+5339,2020-04-19,Fiji,FJI,East Asia & Pacific,Upper middle income,0.0,0.0
+5428,2020-04-19,Finland,FIN,Europe & Central Asia,High income,17.042801909156424,308.22088559112683
+5517,2020-04-19,France,FRA,Europe & Central Asia,High income,294.78729202203374,555.1598399136589
+5606,2020-04-19,Gabon,GAB,Sub-Saharan Africa,Upper middle income,0.47185948024678254,3.3030163617274777
+5695,2020-04-19,"Gambia, The",GMB,Sub-Saharan Africa,Low income,,
+5784,2020-04-19,Georgia,GEO,Europe & Central Asia,Upper middle income,1.0733791505223733,24.95606524964518
+5873,2020-04-19,Germany,DEU,Europe & Central Asia,High income,55.315804149823954,1061.4458711697575
+5962,2020-04-19,Ghana,GHA,Sub-Saharan Africa,Lower middle income,0.3023471410121534,3.3258185511336875
+6051,2020-04-19,Greece,GRC,Europe & Central Asia,High income,10.529527123595962,25.06586545351605
+6140,2020-04-19,Grenada,GRD,Latin America & Caribbean,Upper middle income,0.0,53.83386868124967
+6229,2020-04-19,Guatemala,GTM,Latin America & Caribbean,Lower middle income,0.4058486971706026,1.2175460915118077
+6318,2020-04-19,Guinea,GIN,Sub-Saharan Africa,Low income,0.4027607477108287,7.00803701016842
+6407,2020-04-19,Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,0.0,1.600589870720356
+6496,2020-04-19,Guyana,GUY,Latin America & Caribbean,Upper middle income,8.985833192127382,11.553214104163779
+6585,2020-04-19,Haiti,HTI,Latin America & Caribbean,Low income,0.26970714119780176,0.0
+6674,2020-04-19,,,,,,
+6763,2020-04-19,Honduras,HND,Latin America & Caribbean,Lower middle income,4.797902940926758,1.5645335676935084
+6852,2020-04-19,Hungary,HUN,Europe & Central Asia,High income,19.333922830437203,25.573971997932805
+6941,2020-04-19,Iceland,ISL,Europe & Central Asia,High income,25.515917679979363,3660.1166360948173
+7030,2020-04-19,India,IND,South Asia,Lower middle income,0.41327283661709824,2.109983319687296
+7119,2020-04-19,Indonesia,IDN,East Asia & Pacific,Lower middle income,2.174372453973775,2.562920108979398
+7208,2020-04-19,"Iran, Islamic Rep.",IRN,Middle East & North Africa,Upper middle income,,
+7297,2020-04-19,Iraq,IRQ,Middle East & North Africa,Upper middle income,2.1335498105824073,26.25307023021523
+7386,2020-04-19,Ireland,IRL,Europe & Central Asia,High income,125.32592444819097,15.8198298073946
+7475,2020-04-19,Israel,ISR,Middle East & North Africa,High income,19.363263835727473,422.61449092628453
+7564,2020-04-19,Italy,ITA,Europe & Central Asia,High income,391.5807814932898,778.7757258312237
+7653,2020-04-19,Jamaica,JAM,Latin America & Caribbean,Upper middle income,1.703661680048929,9.199773072264216
+7742,2020-04-19,Japan,JPN,East Asia & Pacific,High income,1.8651835822747493,9.15994818583235
+7831,2020-04-19,Jordan,JOR,Middle East & North Africa,Upper middle income,0.7030928350721991,27.721946068560992
+7920,2020-04-19,Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,0.9303633944691537,21.890903399274208
+8009,2020-04-19,Kenya,KEN,Sub-Saharan Africa,Lower middle income,0.2724105865758787,1.303679235755991
+8098,2020-04-19,"Korea, Dem. People's Rep.",PRK,East Asia & Pacific,Low income,,
+8187,2020-04-19,Kosovo,KSV,Europe & Central Asia,Lower middle income,6.503007641033978,50.39830921801333
+8276,2020-04-19,Kuwait,KWT,Middle East & North Africa,High income,1.6919210046916968,73.71941520442394
+8365,2020-04-19,Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,,
+8454,2020-04-19,Lao PDR,LAO,East Asia & Pacific,Lower middle income,,
+8543,2020-04-19,Latvia,LVA,Europe & Central Asia,High income,2.5944725281681884,45.662716495760115
+8632,2020-04-19,Lebanon,LBN,Middle East & North Africa,Upper middle income,3.066174618644532,14.892848147702011
+8721,2020-04-19,Liberia,LBR,Sub-Saharan Africa,Low income,1.6601033787876556,1.4525904564391987
+8810,2020-04-19,Libya,LBY,Middle East & North Africa,Upper middle income,0.1497327196088622,1.6470599156974843
+8899,2020-04-19,Liechtenstein,LIE,Europe & Central Asia,High income,26.378264310208387,1450.8045370614614
+8988,2020-04-19,Lithuania,LTU,Europe & Central Asia,High income,12.493115401048637,86.38096934439343
+9077,2020-04-19,Luxembourg,LUX,Europe & Central Asia,High income,120.07566411711488,1031.3348137182336
+9166,2020-04-19,,,,,,
+9255,2020-04-19,Madagascar,MDG,Sub-Saharan Africa,Low income,0.0,1.4850146034051461
+9344,2020-04-19,Malawi,MWI,Sub-Saharan Africa,Low income,0.11023343859708107,0.1653501578956216
+9433,2020-04-19,Malaysia,MYS,East Asia & Pacific,Upper middle income,2.8228352144569757,101.40004697324666
+9522,2020-04-19,Maldives,MDV,South Asia,Upper middle income,0.0,31.026030839874657
+9611,2020-04-19,Mali,MLI,Sub-Saharan Africa,Low income,0.7338414661313817,2.2015243983941453
+9700,2020-04-19,Malta,MLT,Middle East & North Africa,High income,6.190289499205579,243.48472030208612
+9789,2020-04-19,Mauritania,MRT,Sub-Saharan Africa,Lower middle income,0.22710142054209564,1.3626085232525738
+9878,2020-04-19,Mauritius,MUS,Sub-Saharan Africa,Upper middle income,7.1129207786593405,164.38750244012698
+9967,2020-04-19,Mexico,MEX,Latin America & Caribbean,Upper middle income,5.150930668568296,20.81768440973679
+10056,2020-04-19,Moldova,MDA,Europe & Central Asia,Lower middle income,24.759344712531075,168.88090348696568
+10145,2020-04-19,Monaco,MCO,Europe & Central Asia,High income,77.55545214828602,568.7399824207641
+10234,2020-04-19,Mongolia,MNG,East Asia & Pacific,Lower middle income,0.0,2.208057010770271
+10323,2020-04-19,Montenegro,MNE,Europe & Central Asia,Upper middle income,8.03565258338195,88.39217841720144
+10412,2020-04-19,Morocco,MAR,Middle East & North Africa,Lower middle income,3.9134991239590575,9.075987330032708
+10501,2020-04-19,Mozambique,MOZ,Sub-Saharan Africa,Low income,0.0,0.27122356612745835
+10590,2020-04-19,Namibia,NAM,Sub-Saharan Africa,Upper middle income,0.0,2.450725108291416
+10679,2020-04-19,Nepal,NPL,South Asia,Low income,0.0,0.14241022397176348
+10768,2020-04-19,Netherlands,NLD,Europe & Central Asia,High income,214.54739263112984,18.686573012503057
+10857,2020-04-19,New Zealand,NZL,East Asia & Pacific,High income,2.478826688700682,188.3908283412518
+10946,2020-04-19,Nicaragua,NIC,Latin America & Caribbean,Lower middle income,0.30933353625613313,0.9280006087683993
+11035,2020-04-19,Niger,NER,Sub-Saharan Africa,Low income,0.891148524694706,5.213218869464029
+11124,2020-04-19,Nigeria,NGA,Sub-Saharan Africa,Lower middle income,0.10721137396276824,0.8679015987462192
+11213,2020-04-19,,,,,24.48441111150585,85.9354821364617
+11302,2020-04-19,Norway,NOR,Europe & Central Asia,High income,31.062238182983315,6.024191647608885
+11391,2020-04-19,Oman,OMN,Middle East & North Africa,High income,1.4494305084001746,48.245329779605804
+11480,2020-04-19,Pakistan,PAK,South Asia,Lower middle income,0.791649865704611,8.802392554382223
+11569,2020-04-19,Panama,PAN,Latin America & Caribbean,Upper middle income,28.72962620601584,33.51789724035181
+11658,2020-04-19,Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,0.0,0.0
+11747,2020-04-19,Paraguay,PRY,Latin America & Caribbean,Upper middle income,1.1500745176407774,5.894131902908984
+11836,2020-04-19,Peru,PER,Latin America & Caribbean,Upper middle income,12.504198284574045,212.91523629058455
+11925,2020-04-19,Philippines,PHL,East Asia & Pacific,Lower middle income,3.8349051037261197,5.363241367558289
+12014,2020-04-19,Poland,POL,Europe & Central Asia,High income,9.479983410029032,27.386618740083872
+12103,2020-04-19,Portugal,PRT,Europe & Central Asia,High income,69.42943975498603,59.31646813801328
+12192,2020-04-19,Qatar,QAT,Middle East & North Africa,High income,2.875962953283217,186.21860122508832
+12281,2020-04-19,Romania,ROM,Europe & Central Asia,Upper middle income,23.16842908547121,97.1943854317329
+12370,2020-04-19,Russian Federation,RUS,Europe & Central Asia,Upper middle income,,
+12459,2020-04-19,Rwanda,RWA,Sub-Saharan Africa,Low income,0.0,6.177887892307059
+12548,2020-04-19,St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,,
+12637,2020-04-19,St. Lucia,LCA,Latin America & Caribbean,Upper middle income,,
+12726,2020-04-19,St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,,
+12815,2020-04-19,San Marino,SMR,Europe & Central Asia,High income,1154.3584430960486,1775.9360663016132
+12904,2020-04-19,,,,,0.0,0.0
+12993,2020-04-19,Saudi Arabia,SAU,Middle East & North Africa,High income,2.8783428057023355,41.48374476672026
+13082,2020-04-19,Senegal,SEN,Sub-Saharan Africa,Low income,0.1892223968674863,13.876309103615661
+13171,2020-04-19,Serbia,SRB,Europe & Central Asia,Upper middle income,17.471991824253532,107.83942494805662
+13260,2020-04-19,Seychelles,SYC,Sub-Saharan Africa,High income,0.0,51.67317748703004
+13349,2020-04-19,Sierra Leone,SLE,Sub-Saharan Africa,Low income,0.0,0.7842979370088498
+13438,2020-04-19,Singapore,SGP,East Asia & Pacific,High income,1.9508125666379836,136.20218647072468
+13527,2020-04-19,Slovak Republic,SVK,Europe & Central Asia,High income,,
+13616,2020-04-19,Slovenia,SVN,Europe & Central Asia,High income,35.68166936207926,92.5794664529624
+13705,2020-04-19,Somalia,SOM,Sub-Saharan Africa,Low income,0.4664131244921927,0.1998913390680826
+13794,2020-04-19,South Africa,ZAF,Sub-Saharan Africa,Upper middle income,0.9345855533634332,15.628347309021857
+13883,2020-04-19,South Sudan,SSD,Sub-Saharan Africa,Low income,0.0,0.0
+13972,2020-04-19,Spain,ESP,Europe & Central Asia,High income,437.0622272501343,1653.0495630659873
+14061,2020-04-19,Sri Lanka,LKA,South Asia,Lower middle income,0.3230272265805261,4.430087678818643
+14150,2020-04-19,Sudan,SDN,Sub-Saharan Africa,Lower middle income,0.23922567624493582,0.1435354057469615
+14239,2020-04-19,Suriname,SUR,Latin America & Caribbean,Upper middle income,1.736138238271084,10.416829429626505
+14328,2020-04-19,Sweden,SWE,Europe & Central Asia,High income,151.34816820560235,54.05291721628655
+14417,2020-04-19,Swaziland,SWZ,Sub-Saharan Africa,Lower middle income,163.6277289446176,2090.8640166648906
+14506,2020-04-19,Syrian Arab Republic,SYR,Middle East & North Africa,Lower middle income,,
+14595,2020-04-19,"Taiwan, China",TWN,East Asia & Pacific,High income,,
+14684,2020-04-19,Tanzania,TZA,Sub-Saharan Africa,Low income,0.1242934185498481,0.1953182291497613
+14773,2020-04-19,Thailand,THA,East Asia & Pacific,Upper middle income,0.6769551949570468,27.76956629525928
+14862,2020-04-19,Timor-Leste,TMP,East Asia & Pacific,Lower middle income,0.0,0.7886609483490171
+14951,2020-04-19,Togo,TGO,Sub-Saharan Africa,Low income,0.6337863384566085,6.591377919948729
+15040,2020-04-19,Trinidad and Tobago,TTO,Latin America & Caribbean,High income,5.755983704810132,15.109457225126596
+15129,2020-04-19,Tunisia,TUN,Middle East & North Africa,Lower middle income,3.285718090229969,3.7180494178918075
+15218,2020-04-19,Turkey,TUR,Europe & Central Asia,Upper middle income,24.502025784245827,145.48153732876946
+15307,2020-04-19,United States,USA,North America,High income,,
+15396,2020-04-19,Uganda,UGA,Sub-Saharan Africa,Low income,0.0,0.6553825551067303
+15485,2020-04-19,Ukraine,UKR,Europe & Central Asia,Lower middle income,3.159839754441457,7.776343225469403
+15574,2020-04-19,United Arab Emirates,ARE,Middle East & North Africa,High income,4.25710461440029,133.52772034436032
+15663,2020-04-19,United Kingdom,GBR,Europe & Central Asia,High income,242.17449130266314,6.5603030884101345
+15752,2020-04-19,Uruguay,URY,Latin America & Caribbean,High income,2.89913979623106,86.3943659276856
+15841,2020-04-19,Uzbekistan,UZB,Europe & Central Asia,Lower middle income,0.15172020366920141,6.827409165114063
+15930,2020-04-19,"Venezuela, RB",VEN,Latin America & Caribbean,Upper middle income,,
+16019,2020-04-19,Vietnam,VNM,East Asia & Pacific,Lower middle income,0.0,2.114288935062494
+16108,2020-04-19,West Bank and Gaza,WBG,Middle East & North Africa,Lower middle income,0.6565863158219574,15.539209474452992
+16197,2020-04-19,,,,,,
+16286,2020-04-19,"Yemen, Rep.",YEM,Middle East & North Africa,Lower middle income,,
+16375,2020-04-19,Zambia,ZMB,Sub-Saharan Africa,Lower middle income,0.17289250661976593,1.9018175728174251
+16464,2020-04-19,Zimbabwe,ZWE,Sub-Saharan Africa,Low income,0.2077703622226941,0.1385135748151294
